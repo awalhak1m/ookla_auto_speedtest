@@ -1,5 +1,5 @@
 # ookla_auto_speedtest
-Automated Ookla Speedtest using CLI
+Automated Ookla Speedtest using CLI.
 A very simple .bat file that will run speedtest CLI on any windows PC.
 
 Steps to make it work:
