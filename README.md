@@ -12,3 +12,4 @@ Steps to make it work:
 -Execute "Generic_Auto_speedtest.bat" <<For some PC, might need to execute as Administrator>>
 
 Speedtest output will automatically be saved in speedtest-result folder
+
